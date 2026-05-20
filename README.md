@@ -97,9 +97,9 @@ Enter credit: 5
 Enter name of 2 subject: physics
 Enter credit: 4
 
-≡ƒÄ» Enter all marks between 0 to 100 ≡ƒÄ»
+🎯 Enter all marks between 0 to 100 🎯
 
-≡ƒæºEnter number of students≡ƒæ¿: 2
+👧Enter number of students👧:
 Sr Number: 1
 Enter last two digits of enrollment number: 1
 Enter name of student: bhavesh aanand dandgavhal
@@ -119,8 +119,8 @@ Total marks: 165/200.00
 Percentage: 82.50 
 Semester Performance Index: 8.556
  
-≡ƒÑ│ Congratulations! You have passed all subjects ≡ƒÑ│ 
-≡ƒÑê Grade is A2 ≡ƒÑê 
+🥳 Congratulations! You have passed all subjects 🥳
+🥈 Grade is A2 🥈 
 
 ===================
 Sr Number: 2
@@ -141,9 +141,9 @@ Student name: ronak patel
 Total marks: 137/200.00
 Percentage: 68.50 
 Semester Performance Index: 7.111
- 
-≡ƒÑ│ Congratulations! You have passed all subjects ≡ƒÑ│ 
-≡ƒÅå Grade is B2 ≡ƒÅå
+
+🥳 Congratulations! You have passed all subjects 🥳
+🏆 Grade is B2 🏆
 
 ===================
 
